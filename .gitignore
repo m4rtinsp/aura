@@ -1,1 +1,6 @@
 .DS_Store
+web/app/*
+web/log/*
+web/cache/*
+web/media-files/*
+web/vendors/*
